@@ -59,7 +59,7 @@ html{
     transform: rotate(45deg);
 }
 
-.top, .daigaku{
+.top{
   width: auto;
   text-align: center;
 }
@@ -136,6 +136,8 @@ html{
 
 .daigaku{
   background: #ffeddb;
+  width: auto;
+  text-align: center;
 }
 
 .daigaku p{
