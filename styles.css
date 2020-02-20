@@ -2,6 +2,10 @@ html{
   background-color: #fffcf9;
 }
 
+body{
+  margin: 0;
+}
+
 .ado, .kamoku, .money, .gakubu, .syutugan, .news, .siryou, .kako{
  position: relative;
  margin-bottom: 50px;
